@@ -64,3 +64,11 @@ by   calling    HTML.displayhtml  function..  is  one   of  the  best  advantage
 l)  This  Framework  also   behave   like  AJAX   and  redirects   to  the  same   page....
 
 m)   JAF   is  platform   Independent.   
+
+
+Duration   of  Project  :  Jan  2014   to  Jan  2016.
+
+
+
+
+
