@@ -66,7 +66,7 @@ l)  This  Framework  also   behave   like  AJAX   and  redirects   to  the  same
 m)   JAF   is  platform   Independent.   
 
 
-Duration   of  Project  :  Jan  2014   to  Jan  2016.
+Duration   of  Project  :  Jan  2014   to  TillDate
 
 
 
